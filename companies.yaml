@@ -23,16 +23,23 @@
 # noise and makes the prefilter counts impossible to reason about.
 
 companies:
-  - {ats: greenhouse, slug: stripe,      name: Stripe}
-  - {ats: greenhouse, slug: databricks,  name: Databricks}
-  - {ats: greenhouse, slug: cloudflare,  name: Cloudflare}
-  - {ats: greenhouse, slug: figma,       name: Figma}
-  - {ats: greenhouse, slug: dropbox,     name: Dropbox}
-  - {ats: greenhouse, slug: coinbase,    name: Coinbase}
-  - {ats: greenhouse, slug: reddit,      name: Reddit}
-  - {ats: lever,      slug: voleon,      name: Voleon}
-
-  - {ats: ashby,      slug: openai,      name: OpenAI}
-  - {ats: ashby,      slug: ramp,        name: Ramp}
-  - {ats: ashby,      slug: linear,      name: Linear}
-  - {ats: ashby,      slug: vanta,       name: Vanta}
+  - {ats: ashby, slug: ontic, name: Ontic}
+  - {ats: ashby, slug: aiprise, name: AiPrise}
+  - {ats: ashby, slug: Commure, name: Commure}
+  - {ats: ashby, slug: avoca, name: Avoca}
+  - {ats: ashby, slug: build-ai, name: Build AI}
+  - {ats: ashby, slug: reacher, name: Reacher}
+  - {ats: ashby, slug: netgear, name: NETGEAR}
+  - {ats: ashby, slug: sarvam, name: Sarvam AI}
+  - {ats: ashby, slug: playpowerlabs, name: Playpower Labs}
+  - {ats: ashby, slug: flagright.com, name: Flagright}
+  - {ats: ashby, slug: hinge-health, name: Hinge Health}
+  - {ats: ashby, slug: SigNoz, name: SigNoz}
+  - {ats: ashby, slug: furtherai, name: FurtherAI}
+  - {ats: ashby, slug: classavo, name: Classavo}
+  - {ats: lever, slug: omnidian, name: Omnidian}
+  - {ats: lever, slug: ninjavan, name: Ninja Van}
+  - {ats: lever, slug: dnb, name: Dun & Bradstreet}
+  - {ats: greenhouse, slug: appian, name: Appian}
+  - {ats: greenhouse, slug: insurityindia, name: Insurity}
+  - {ats: lever, slug: jobgether, name: Jobgether}
